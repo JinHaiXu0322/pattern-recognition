@@ -1,2 +1,3 @@
 # pattern-recognition
 2023年模式识别大作业
+代码参考B站up主Bubbliiiing的开源代码
